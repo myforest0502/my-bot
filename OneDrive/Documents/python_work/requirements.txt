@@ -1,6 +1,7 @@
-flask
-python-dotenv
+flask==3.1.2
 gunicorn
-requests
-line-bot-sdk
+line-bot-sdk==3.18.1
+numpy==1.21.0
 openai
+python-dotenv
+requests
