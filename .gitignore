@@ -1,0 +1,11 @@
+.env
+*.dat
+*.lnk
+*.pdf
+*.docx
+*.url
+OneDrive/
+node_modules/
+.vscode/
+*.log
+__pycache__/
